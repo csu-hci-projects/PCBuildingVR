@@ -1,3 +1,26 @@
 # PCBuildingVR
 
-Click [here](https://www.overleaf.com/project/5e4f1fd98d12ae00017c324a) to view Latex file.
+## Project
+This project is for CS464: Introduction to Human-Computer Interaction at Colorado State University.
+The goal is to design a VR based learning environment to instruct users how to build a computer via a virtual "hands-on" approach. This project will feature a Tutorial mode which will guide users through the process of building a computer while teaching them about each component. It will also feature a Freeplay mode in which the players can go at their own pace and use their own knowledge to build a computer.
+This program will be constructed in Unity and is being tested on an Oculus Rift S VR headset.
+
+
+## Files
+* The entire project file is too big to upload to GitHub, but you can download the entire project from Dropbox [here](https://www.dropbox.com/s/qmibcgaqppsok6l/PCBuilder.unitypackage?dl=0).
+* The main Scene used so far is SampleScene.unity as shown in the repo. 
+* The project does rely on Oculus Integration from the Unity Asset Store found [here](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+
+
+## Checkpoints
+| Checkpoint | Date | LaTex File | Video |
+| ---------- | ---- | ---------- | ----- |
+| 1 | 3/3/2020 | [Document](https://www.overleaf.com/project/5e4f1fd98d12ae00017c324a) | [Video]() |
+
+
+## Members:
+| Last | First | eID | GitHub Username | Email |
+|------|-------|-----|-----------------|-------|
+| Day | Chandler | cday42 | The501Trooper | cday42@rams.colostate.edu |
+| Huskerson | Aaron | aahusk | AAhusk | aahusk@rams.colostate.edu |
+| Sparks | Scott | gsparks | ScottSparks | gsparks@rams.colostate.edu |

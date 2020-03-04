@@ -13,9 +13,9 @@ This program will be constructed in Unity and is being tested on an Oculus Rift 
 
 
 ## Checkpoints
-| Checkpoint | Date | LaTex File | Video |
+| Checkpoint | Date | Document | Video |
 | ---------- | ---- | ---------- | ----- |
-| 1 | 3/3/2020 | [Document](https://www.overleaf.com/project/5e4f1fd98d12ae00017c324a) | [Video]() |
+| 1 | 3/3/2020 | [PDF](), [LaTex](https://www.overleaf.com/project/5e4f1fd98d12ae00017c324a) | [Video]() |
 
 
 ## Members:

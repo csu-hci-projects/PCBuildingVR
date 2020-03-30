@@ -1,13 +1,7 @@
 # Exported from 3D Builder
 
 newmtl Regular_0
-Kd 0.000000 0.000000 0.000000
-
-newmtl Regular_1
 Kd 0.501961 0.501961 0.501961
 
 newmtl Green_0
 Kd 0.129412 0.733333 0.298039
-
-newmtl Translucent_0
-Kd 0.734721 0.734721 0.734721

@@ -7,8 +7,9 @@ This program will be constructed in Unity and is being tested on an Oculus Rift 
 
 
 ## Files
-* The entire project file is too big to upload to GitHub, but you can download the entire project from Dropbox [here](https://www.dropbox.com/sh/jr580tuqv7bjtql/AADtyAylQfag7AfSFwKNCmAFa?dl=0).
-* The main Scene used so far is Home.unity as shown in the repo. 
+* Due to the size of the project Dropbox is used to download the files:
+* [Project Files](https://www.dropbox.com/sh/jr580tuqv7bjtql/AADtyAylQfag7AfSFwKNCmAFa?dl=0).
+* [Running Build](https://www.dropbox.com/sh/8voig4omfunbyub/AACqU4GyU-i7HljKjgJPUzyya?dl=0).
 * The project does rely on Oculus Integration from the Unity Asset Store found [here](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
 
 

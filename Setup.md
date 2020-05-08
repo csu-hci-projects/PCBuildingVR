@@ -17,9 +17,3 @@
 * Select all files, except for Oculus (too many files are in Oculus)
 * It will also be helpful to upload the Scene created in case of importing failure (has been experienced already)
   * This file will be in your file explorer under (Project)/Assets/Scenes/
-  
-  
-## Helpful Resources
-* Tutorials
-  * [How to make a VR game in Unity - Part 1 - Setup, Hand presence, Grabbing object](https://www.youtube.com/watch?v=sKQOlqNe_WY)
-  * [How to make a VR game in Unity - Part 2 - Custom Hand, Distance grab](https://www.youtube.com/watch?v=rnOR1OANIAU&t=231s)

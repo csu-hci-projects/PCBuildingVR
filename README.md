@@ -7,9 +7,8 @@ This program will be constructed in Unity and is being tested on an Oculus Rift 
 
 
 ## Files
-* Due to the size of the project Dropbox is used to download the files:
-    * [Project Files](https://www.dropbox.com/sh/jr580tuqv7bjtql/AADtyAylQfag7AfSFwKNCmAFa?dl=0)
-    * [Running Build](https://www.dropbox.com/sh/8voig4omfunbyub/AACqU4GyU-i7HljKjgJPUzyya?dl=0) (Run "UnityTesting")
+* Due to the size of the project Google Drive is used to download the files:
+    * [Project Files](https://drive.google.com/drive/folders/1b2YdYtFaN5gSibF1cesQRpXaz-8Bhzs9?usp=sharing)
 
 
 ## Checkpoints
